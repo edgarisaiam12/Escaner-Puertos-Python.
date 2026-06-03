@@ -1,4 +1,4 @@
-# Network Port Scanner in Python 🔒
+# Network Port Scanner in Python 
 
 Este es un script interactivo desarrollado en **Python** diseñado para realizar tareas de reconocimiento y auditoría de ciberseguridad (*footprinting*). El programa toma un nombre de dominio o una dirección IP, resuelve su identidad en la red y escanea de forma automatizada una lista de los puertos más comunes y críticos para detectar cuáles se encuentran expuestos (abiertos).
 
@@ -6,7 +6,7 @@ El proyecto fue diseñado con un enfoque práctico y de rendimiento, ideal para 
 
 ---
 
-## 🚀 Características Principales
+##  Características Principales
 
 * **Resolución de DNS Automática:** Traduce nombres de dominio (hosts) a direcciones IPv4 en tiempo real usando sockets nativos.
 * **Escaneo Eficiente con Timeouts:** Implementa un límite de espera de 1.0 segundo por puerto para optimizar el tiempo de respuesta y evitar bloqueos por puertos filtrados.
@@ -28,7 +28,7 @@ El script utiliza exclusivamente librerías nativas de Python, demostrando el do
 
 ---
 
-## 📦 Puertos Evaluados
+##  Puertos Evaluados
 
 El escáner se enfoca por defecto en auditar los servicios estándar más explotados en la industria:
 
@@ -44,7 +44,7 @@ El escáner se enfoca por defecto en auditar los servicios estándar más explot
 
 ---
 
-## 💻 Instrucciones de Uso
+##  Instrucciones de Uso
 
 ### Prerrequisitos
 Tener instalado **Python 3.x** en el sistema.

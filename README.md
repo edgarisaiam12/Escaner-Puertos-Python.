@@ -18,7 +18,7 @@ El proyecto fue diseñado con un enfoque práctico y de rendimiento, ideal para 
 
 ---
 
-## 🛠️ Tecnologías y Librerías Utilizadas
+##  Tecnologías y Librerías Utilizadas
 
 El script utiliza exclusivamente librerías nativas de Python, demostrando el dominio de la biblioteca estándar para redes:
 
